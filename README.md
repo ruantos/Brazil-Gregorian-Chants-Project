@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/4c/6b/bf/4c6bbf23f292a3af8802ab964099217e.jpg" />
-  <h1>Próprio do Brasil e outros hinos</h1>
+  <h1>Brazil Gregorian Chants Project</h1>
 </div>
 
 

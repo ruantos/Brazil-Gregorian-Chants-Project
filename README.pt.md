@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <a href="./README.en.md">English</a>
-  <a href="./README.md">Português</a>
+  <a href="./README.md">English</a>
+  <a href="./README.pt.md">Português</a>
 </div>
 
 

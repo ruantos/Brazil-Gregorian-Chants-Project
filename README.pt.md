@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/4c/6b/bf/4c6bbf23f292a3af8802ab964099217e.jpg">
+  <img src="https://i.pinimg.com/736x/4c/6b/bf/4c6bbf23f292a3af8802ab964099217e.jpg" />
   <h1>Brazil Gregorian Chants Project</h1>
 </div>
 
@@ -8,31 +8,32 @@
   <a href="./README.pt.md">Português</a>
 </div>
 
-## About the Project
-- ### Goal
-  - This repository aims to store and make available transcriptions of Gregorian chants from the Proprium of Brazil and other brazilian catholic hymns in GABC format, providing access for study, rehearsals, and printing for liturgical use.
-- ### Motivation 
-  - Due to the massive abandonment of Gregorian chant in liturgical use, it's currently difficult to find legible, quality material available for printing the pieces of our own propers, as well as many others. Therefore, this project intends to restore and make these pieces available to all who seek and need them.
+
+## Sobre o projeto
+- **Objetivo**
+  - Esse repositório visa armazenar e disponibilizar **transcrições dos cantos gregorianos** do calendário litúrgico para o Próprio do Brasil e mais outros hinos em formato - GABC, deixando seu acesso disponível para estudo, ensaios e impressões para uso litúrgico. 
+- **Motivação**
+  - Por conta do massivo abandono do gregoriano no uso litúrgico, nota-se atualmente a dificuldade em encontrar material legível, de qualidade e disponível para impressão das peças de nosso próprio, como de tantos outros. Por conta disso, esse projeto intende restaurar e disponibilizar essas peças para todos que buscam e necessitam.
 <br>
 
-#### Progress: ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
+#### Progresso: ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 <br>
 
-### What is GABC? 🎼
-[GABC](https://gregorio-project.github.io/gabc/) is a simple markup language based solely on ASCII characters that allows users to describe
-Gregorian chant scores. The notation was developed by a Benedictine monk from [*Abadia du Barroux*](https://en.wikipedia.org/wiki/Le_Barroux_Abbey)..
+### O que é GABC? 🎼
+[GABC](https://gregorio-project.github.io/gabc/) é uma **linguagem de marcação** simples baseada apenas em caracteres ASCII que permite usuários descreverem partituras de gregoriano. A notação foi desenvolvida por um monge beneditino da [*Abadia du Barroux*](https://en.wikipedia.org/wiki/Le_Barroux_Abbey).
 
-### Who we are 🇧🇷
-This repository is maintained and developed by choristers of the *Coetus Fidelium Olindensis et Recifensis* who reside at the [*Oratório Nossa Senhora do Rosário da Boa Vista*](https://www.instagram.com/missatridentinanorecife/?hl=en).
+### Quem somos 🇧🇷
+Esse repositório é mantido e desenvolvido por coristas do *Coetus Fidelium Olindensis et Recifensis* que residem no [*Oratório Nossa Senhora do Rosário da Boa Vista*](https://www.instagram.com/missatridentinanorecife/?hl=en).
+
+### Contribuições ℹ️
+Contribuições são bem-vindas! Sinta-se a vontade para ajudar com transcrições, correções ou melhorias.
 
 
-### Contributions ℹ️
-Contributions are welcome! Feel free to help with transcriptions, corrections, or improvements.
+## Como usar 👷
+[ A PREENCHER ]
 
-## How to use 👷
-[ TO BE FILLED ]
 
-## TO-DO ✅
+## Lista de tarefas ✅
 
 #### Nossa Senhora de Guadalupe
 - [ ] INTRÓITO Salve sancta parens

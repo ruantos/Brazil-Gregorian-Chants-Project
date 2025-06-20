@@ -3,6 +3,11 @@
   <h1>Brazil Gregorian Chants Project</h1>
 </div>
 
+<div align="center">
+  <a href="./README.en.md">English</a>
+  <a href="./README.md">Português</a>
+</div>
+
 
 ## Sobre o projeto
 - **Objetivo**
@@ -11,7 +16,7 @@
   - Por conta do massivo abandono do gregoriano no uso litúrgico, nota-se atualmente a dificuldade em encontrar material legível, de qualidade e disponível para impressão das peças de nosso próprio, como de tantos outros. Por conta disso, esse projeto intende restaurar e disponibilizar essas peças para todos que buscam e necessitam.
 <br>
 
-#### Progresso: ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
+#### Progresso: ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
 <br>
 
 ### O que é GABC? 🎼

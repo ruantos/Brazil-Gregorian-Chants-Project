@@ -1,0 +1,116 @@
+# Python
+# =====================
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+develop-eggs/
+eggs/
+
+# Environments
+# ============
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# specific to conda environments
+.conda/
+.micromamba/
+.pixi/
+.rye/
+# For poetry
+.venv
+# For PDM
+__pypackages__/
+
+# IDEs and Editors
+# ================
+# VSCode
+.vscode/
+# PyCharm
+.idea/
+# Spyder
+.spyproject/
+# Jupyter / IPython
+.ipynb_checkpoints
+.jupyter/
+# Others
+*~
+*.swp
+*.swo
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+
+# Operating System Files
+# ======================
+.localized
+.Trashes
+desktop.ini
+
+# Testing & Linting
+# =================
+.pytest_cache/
+.coverage
+.ruff_cache/
+.mypy_cache/
+htmlcov/
+.coverage.*
+
+# Documentation
+# =============
+# Sphinx build
+docs/_build/
+# mkdocs
+site/
+
+# Database Files
+# ==============
+*.sqlite3
+*.db
+*.db-*
+
+# Uploaded Files / Media (e.g., Django, Flask)
+# ============================================
+media/
+static/ # if generated/collected, not source controlled
+
+# Configuration Files (sensitive or local-only)
+# =============================================
+.flaskenv
+.secrets.toml # Or any other file containing sensitive information
+*.ini # Be careful, might need some ini files, adjust as needed
+*.log
+local_settings.py # Common in Django for local overrides
+
+# Installer logs
+pip-log.txt
+pip-delete-this-arg.txt
+
+# Jupyter Notebook files
+# ======================
+# If you commit notebooks, this is less useful, but good for outputs
+# and temporary files.
+# .ipynb_checkpoints is already covered above.
+*.ipynb_checkpoints
+*.bak
+
+# Others
+# ======
+# Compiled Sass/Less files
+*.css.map
+*.sassc
+
+# Node.js dependencies (if frontend is bundled)
+node_modules/
+
+# Mac specific trash files
+.AppleDouble
+.LSOverride

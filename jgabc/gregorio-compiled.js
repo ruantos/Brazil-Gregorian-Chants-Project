@@ -1,0 +1,1 @@
+I will create the file `exsurge.min.js` with the content you provided.This command will create a new file named `exsurge.min.js` in the project's root directory and write the provided Javascript code into it.
